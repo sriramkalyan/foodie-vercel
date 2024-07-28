@@ -39,4 +39,10 @@ nav {
     font-size: 10px;
     display: none;
   }
+  .join-waitlist-button-orange{
+    display: block;
+  }
+  .join-waitlist-button-white{
+    display: block;
+  }
 }
